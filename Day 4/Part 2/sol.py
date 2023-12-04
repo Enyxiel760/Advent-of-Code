@@ -1,5 +1,4 @@
 import regex as re
-points = 0
 matches = []
 
 with open('input.txt') as f:
